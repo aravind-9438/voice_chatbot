@@ -34,5 +34,6 @@ def start():
         talk("Talk something boss")
 
 
+btn = st.button('start',onclick=start())
 
  
