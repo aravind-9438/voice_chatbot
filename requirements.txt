@@ -1,2 +1,2 @@
-speech_recognition
-pyttsx3
+SpeechRecognition   
+pyttsx3 
